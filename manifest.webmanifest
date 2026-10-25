@@ -1,0 +1,15 @@
+{
+  "name": "IAP Generator",
+  "short_name": "IAP",
+  "description": "Incident Action Plan builder — works offline once opened.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#20272e",
+  "theme_color": "#20272e",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
